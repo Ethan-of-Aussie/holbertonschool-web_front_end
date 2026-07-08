@@ -69,7 +69,6 @@ a[href]:active {
     font-weight: var(--font-weight-bold);
     margin: var(--section-title-margin);
     color: var(--section-title-color);
-
 }
 .section-tagline {
     color: var(--color-primary);
