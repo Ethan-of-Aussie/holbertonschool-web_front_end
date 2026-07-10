@@ -84,9 +84,10 @@ a[href]:active {
 }
 
 .container {
-    width: 960x;
+    width: 960px;
     margin: 0 auto;
 }
+
 .visually-hidden {
   display: none;
 }
