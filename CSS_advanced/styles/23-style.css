@@ -188,7 +188,7 @@ a[href]:active {
   display: none;
 }
 
-.footar {
+.footer {
     padding: var(--footer-padding);
 }
 
@@ -207,6 +207,7 @@ a[href]:active {
 .social-link svg {
     fill: var(--text-color);
 }
+
 .footer-copyright {
     margin: 0;
     font-size: var(--font-size-small);
