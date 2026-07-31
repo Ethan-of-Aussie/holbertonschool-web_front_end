@@ -2,6 +2,6 @@
 """Module defines sum_list"""
 
 
-def sum_list(input_list: typing.list[float]) -> float:
+def sum_list(input_list: typing.List[float]) -> float:
     """Returns sums as a float"""
     return sum(input_list)
