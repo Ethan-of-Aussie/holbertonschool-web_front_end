@@ -1,4 +1,4 @@
-#!/usr/nin/env python3
+#!/usr/bin/env python3
 """Module defines wait_random"""
 
 import asyncio
